@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1530197846986,"sparkVersion":"2.1.2","uid":"strIdx_318c34b7ab0a","paramMap":{"inputCol":"browser","outputCol":"browserFeature","handleInvalid":"error"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.classification.MultilayerPerceptronClassifier","timestamp":1530197864984,"sparkVersion":"2.1.2","uid":"mlpc_242328f16203","paramMap":{"labelCol":"label","blockSize":128,"tol":1.0E-6,"stepSize":0.03,"maxIter":100,"predictionCol":"prediction","solver":"l-bfgs","layers":[4,5,4,3],"featuresCol":"indexed","seed":1234}}
